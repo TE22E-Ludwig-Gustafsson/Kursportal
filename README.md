@@ -58,11 +58,11 @@ Målet är att skapa en applikation där användare kan logga in, hantera data (
 
 ## Arkitektur
 
-![Strukturdiagram](../diagram1.png)
+![Strukturdiagram](../diagram2.png)
 
 
 **Flöde:**
-Frontend (Vue) → API (Express) → Databas (MongoDB Atlas)
+Flöde: Användaren interagerar med frontend (Vue.js) → frontend skickar HTTP-förfrågningar till backend API (Express) → backend hanterar logik och kommunicerar med databasen (MongoDB Atlas) → data skickas tillbaka via backend till frontend för visning.
 
 ---
 
