@@ -70,4 +70,4 @@ Frontend (Vue) → API (Express) → Databas (MongoDB Atlas)
 
 1. Klona repo:  
    ```bash
-   git clone https://github.com/TE22E-Ludwig-Gustafsson/Kursportal.git
+   git clone https://github.com/Username/projectName
